@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "502788109871",
+    "project_id": "crudlp3-35660",
+    "storage_bucket": "crudlp3-35660.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502788109871:android:20ae29fec56c67af8e38da",
+        "android_client_info": {
+          "package_name": "com.alencar.crudlp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502788109871-5l7ftt5him00lcba12qdmjf13d4d4dfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLxZlJ2LfNboJ-3waJyZs5q9xMWtTYAAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502788109871-5l7ftt5him00lcba12qdmjf13d4d4dfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
